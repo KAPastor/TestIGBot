@@ -9,7 +9,7 @@ fromaddr = 'kyleanthonypastor@gmail.com'
 toaddrs  = 'kyle.pastor@scotiabank.com'
 msg = 'Why,Oh why!'
 username = 'kyleanthonypastor@gmail.com'
-password = 'Skiptime12345!@#$%'
+password = ''
 
 server = smtplib.SMTP('smtp.gmail.com:587')
 server.ehlo()
