@@ -17,7 +17,7 @@ from selenium import webdriver
 import time
 import random
 
-InstagramAPI = InstagramAPI("botbait", "")
+InstagramAPI = InstagramAPI("botbait", "Skiptime1234!@#$")
 InstagramAPI.login()  # login
 
 while True:
